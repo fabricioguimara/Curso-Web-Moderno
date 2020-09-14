@@ -1,0 +1,18 @@
+JavaScrip é estruturado por sentenças de codigo e blocos de codigo entre chaves
+Usando VAR, vc pode redeclarar a variavel novamente dentro do codigo, LET nao permite
+é preferivel usar constantes const no lugar de variavel se o valor nao for ser alterado
+array se cria entre colchetes
+objeto se cria entre chaves. Objeto é sempre uma coleção de identificador e valor
+função é o conceito mais importante em javascript
+função é um bloco de codigo nomeado 
+Variavel VAR fica visivel no codigo todo independente se esta no mesmo bloco ou nao {}
+Se variavel VAR for criada dentro de uma função, ela só estara visivel dentro da funcao
+Variavel LET só esta visivel dentro do bloco que foi criada
+
+Estrutura de dados
+WHILE - estrutura de repetiçao baseado em verdadeiro ou falso com quantidade indeterminada de repetiçoes
+DO WHILE - muito pouco usada, é a unica estrutura de controle que a expressao esta depois do bloco, pelo menos uma repetição é garantida
+FOR IN usado para percorrer arrays e objetos
+
+
+
